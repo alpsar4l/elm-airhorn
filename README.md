@@ -1,16 +1,21 @@
 # Airhorn
 
-Öyle aman aman harikulade bir şey beklemeyin... ELM ile yapmaya çalıştığım ilk şey bu ondan dolayı syntaxta hatalar vs. olabilir çokta takılmayın.
+don't expect anything grand, just putting it out there - it's my first time diving into elm. anyway, no big deal, we're just chillin' here, you know? :)
 
-Bu arada build etmek için şöyle bi' komut var
+## Build
+
+you can run this code snippet to get the output
 ```shell
 elm make src/Main.elm
 ```
 
-Çalıştırmak içinde şöyle bi' komut daha var
+## Development
+
+just type this to kick off in development mode
 ```shell
 elm reactor
 ```
 
-Diğer şeyler: \
+## Other
+
 [elm-lang](https://elm-lang.org/)
